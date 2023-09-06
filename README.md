@@ -51,7 +51,7 @@ To get started with this repository, you can clone it to your local machine usin
 
 ```bash
 [git clone https://github.com/Souradip22/DSA-using-python.git)https://github.com/Souradip22/DSA-using-python.git]
-
+```
 ## Usage
 
 You can explore the code and notebooks for various topics by navigating to the corresponding directories or files in this repository. Each directory or file is organized by topic for your convenience.

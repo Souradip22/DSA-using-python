@@ -14,7 +14,7 @@ This repository contains Python practice code for various data structures and al
 8. [Binary Search](./Binary%20Search.ipynb)
 9. [Binary Search Tree (BST)](./BST%20-%201.ipynb)
 10. [Dynamic Programming (DP)](./DP%201.ipynb)
-11. [Dynamic Programming (TUF)](./DP%20TUF%201.ipynb)
+11. [Striver DP Playlist Python Solution - Memoization + Tabulation + Space Optimization](./Python%20Solution%20Striver%20DP%20Playlist%20-%20Memoization%2C%20Tabulation%20%26%20Space%20Optimization%20.ipynb)
 12. [Hashing](./HASHING.ipynb)
 13. [Generic Trees](./Generic%20Trees.ipynb)
 14. [Greedy Algorithms](./GREEDY%20ALGOs.ipynb)
